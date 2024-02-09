@@ -158,3 +158,4 @@ public class AvailabilityResource
 		return Mono.just("Version-Updated-by-TAP-CI");
 	}
 }
+
